@@ -16,8 +16,7 @@ body{
   height: 100%;
 }
 .card{
-  min-width: 350px;
-  width: fit-content;
+  width: 350px;
   background-color: #fff;
   margin: 100px auto;
   border-radius: 15px;
